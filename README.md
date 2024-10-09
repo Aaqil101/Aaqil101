@@ -2,7 +2,7 @@
 - 👀 I’m interested in Blender add-ons and 3D in general
 - 🌱 I am currently learning Python to create a Blender add-on that will make compositing easier.
 - 💞️ I want to collaborate on my project, [Post-Library](https://github.com/Aaqil101/Post-Library).
-- 📫 You can reach me through Instagram - @aakililyas01, Mail - mohammedaaqililyas01@gmail.com.
+- 📫 You can reach me through mail - mohammedaaqililyas01@gmail.com.
 
 <!---
 Aaqil101/Aaqil101 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
